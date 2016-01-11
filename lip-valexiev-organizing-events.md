@@ -1,7 +1,7 @@
 ```
   LIP:
   Title: Guidelines for Organizing Events
-  Discussions: TODO: add the forum URL
+  Discussions: http://frm.hackafe.org/t/lip-guidelines-for-organizing-events/451/1
   Status: Draft
   Type:
   Created: 2016-01-11
@@ -21,7 +21,7 @@
 
 # 1. Abstract
 
-This LIP contains guidelines for organizing events in the lab's spaces.
+This LIP contains guidelines for organizing events inside the lab's spaces.
 
 
 # 2. Specification
