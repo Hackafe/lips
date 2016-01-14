@@ -25,9 +25,9 @@ Created: 2015-12-25
 		* [LIP Author](#lip-author)
 		* [LIP Editors](#lip-editors)
 	3. [LIP Workflow](#33-lip-workflow)
-		* [Submitting a LIP](#submitting-a-lip)
-		* [LIP Editors Review](#lip-editors-review)
-		* [LIP Resolution](#lip-resolution)
+		1. [Submitting a LIP](#1-submitting-a-lip)
+		2. [LIP Editors Review](#2-lip-editors-review)
+		3. [LIP Resolution](#3-lip-resolution)
 4. [Rationale](#4-rationale)
 5. [References and Footnotes](#5-references-and-footnotes)
 
@@ -174,7 +174,7 @@ The workflow is:
 1. Submit a LIP -> 2. LIP Editors review -> 3. Resolution
 </pre>
 
-### Submitting a LIP
+### #1 Submitting a LIP
 
 The LIP process begins with a new idea for the lab. It is highly recommended that a single LIP contain a single key proposal or a new idea. The more focused the LIP, the more successful it tends to be. The LIP editor reserves the right to reject LIP proposals if they appear too unfocused or too broad. If in doubt, split your LIP into several well-focused ones.
 
@@ -194,7 +194,7 @@ When the LIP is ready for the repository, the author should submit it as a "pull
 If the LIP author can not use git yet, then they should send their LIP to lip_dot_editors_at_hackafe_dot_org and a LIP editor will submit it as a "pull requests" for them.
 
 
-### LIP Editors Review
+### #2 LIP Editors Review
 
 Once a "pull request" is submitted, the LIP editors have 48 hours to review the LIP.
 
@@ -217,7 +217,7 @@ If no editor denies the LIP for 48 hours, then one of them will:
 4. Officially announce the new LIP and next steps in the forum.
 
 
-### LIP Resolution
+### #3 LIP Resolution
 
 The official announcement in the forum starts the voting on the LIP. The lab members have 72 hours to vote in the forum.
 
