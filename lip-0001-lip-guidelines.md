@@ -1,7 +1,7 @@
 ```
 LIP: 0001-lip-guidelines
 Title: LIP Purpose and Guidelines
-Author: swift <http://frm.hackafe.org/users/swift>
+Author: swift
 Discussions: http://frm.hackafe.org/t/lip-lip-purpose-and-guidelines/441
 Status: Accepted
 Type: Process
