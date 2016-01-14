@@ -11,25 +11,25 @@ Created: 2015-12-25
 
 **Content:**
 
-1. Abstract
-2. Motivation
-3. Specification
-	1. Terms Definitions
-		* What is a LIP?
-			- LIP Types
-			- Structure of a successful LIP
-			- LIP Head
-			- LIP File Format
-			- Auxiliary Files
-	2. Actors
-		1. LIP Author
-		2. LIP Editors
-	3. LIP Workflow
-		1. Submitting a LIP
-		2. LIP Editors Review
-		3. LIP Resolution
-4. Rationale
-5. References and Footnotes
+1. [Abstract](#1-abstract)
+2. [Motivation](#2-motivation)
+3. [Specification](#3-specification)
+	1. [Terms Definitions](#31-terms-definitions)
+		* [What is a LIP?](#what-is-a-lip)
+			- [LIP Types](#lip-types)
+			- [Structure of a successful LIP](#structure-of-a-successful-lip)
+			- [LIP Head](#lip-head)
+			- [LIP File Format](#lip-file-format)
+			- [Auxiliary Files](#auxiliary-files)
+	2. [Actors](#12-actors)
+		* [LIP Author](#lip-author)
+		* [LIP Editors](#lip-editors)
+	3. [LIP Workflow](#13-lip-workflow)
+		* [Submitting a LIP](#submitting-a-lip)
+		* [LIP Editors Review](#lip-editors-review)
+		* [LIP Resolution](#lip-resolution)
+4. [Rationale](#4-rationale)
+5. [References and Footnotes](#5-references-and-footnotes)
 
 
 # 1. Abstract
@@ -141,14 +141,14 @@ LIPs may include auxiliary files such as diagrams. Such files must be named LIP-
 
 ## 3.2. Actors
 
-### 1. LIP Author
+### LIP Author
 
 The LIP author (or authors) writes the LIP using the style and format described in this LIP, guides the discussions in the appropriate categories in the [forum](http://frm.hackafe.org/), and attempts to build community consensus around the idea.
 
 Authors MUST NOT self assign numbers, but should use an alias such as "lip-ironsteel-some-workflow" which includes the author's nickname and the LIP subject.
 
 
-### 2. LIP Editors
+### LIP Editors
 
 The LIP editors are individuals responsible for the administrative and editorial aspects of the LIP workflow:
 
@@ -174,7 +174,7 @@ The workflow is:
 1. Submit a LIP -> 2. LIP Editors review -> 3. Resolution
 </pre>
 
-### 1. Submitting a LIP
+### Submitting a LIP
 
 The LIP process begins with a new idea for the lab. It is highly recommended that a single LIP contain a single key proposal or a new idea. The more focused the LIP, the more successful it tends to be. The LIP editor reserves the right to reject LIP proposals if they appear too unfocused or too broad. If in doubt, split your LIP into several well-focused ones.
 
@@ -194,7 +194,7 @@ When the LIP is ready for the repository, the author should submit it as a "pull
 If the LIP author can not use git yet, then they should send their LIP to lip_dot_editors_at_hackafe_dot_org and a LIP editor will submit it as a "pull requests" for them.
 
 
-### 2. LIP Editors Review
+### LIP Editors Review
 
 Once a "pull request" is submitted, the LIP editors have 48 hours to review the LIP.
 
@@ -217,7 +217,7 @@ If no editor denies the LIP for 48 hours, then one of them will:
 4. Officially announce the new LIP and next steps in the forum.
 
 
-### 3. LIP Resolution
+### LIP Resolution
 
 The official announcement in the forum starts the voting on the LIP. The lab members have 72 hours to vote in the forum.
 
