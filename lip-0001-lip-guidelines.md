@@ -1,10 +1,11 @@
 ```
-  LIP: 0001-lip-guidelines
-  Title: LIP Purpose and Guidelines
-  Discussions: http://frm.hackafe.org/t/lip-lip-purpose-and-guidelines/441
-  Status: Accepted
-  Type: Process
-  Created: 2015-12-25
+LIP: 0001-lip-guidelines
+Title: LIP Purpose and Guidelines
+Author: swift <http://frm.hackafe.org/users/swift>
+Discussions: http://frm.hackafe.org/t/lip-lip-purpose-and-guidelines/441
+Status: Accepted
+Type: Process
+Created: 2015-12-25
 ```
 
 
