@@ -1,9 +1,9 @@
 ```
-  LIP:
+  LIP: 0001-lip-guidelines
   Title: LIP Purpose and Guidelines
   Discussions: http://frm.hackafe.org/t/lip-lip-purpose-and-guidelines/441
-  Status: Draft
-  Type:
+  Status: Accepted
+  Type: Process
   Created: 2015-12-25
 ```
 
