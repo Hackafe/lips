@@ -62,11 +62,11 @@ An event organizer is the person or the organization organizing an event. They m
 	- to promote the event and attract attendees
 	- to check the equipment they will use, learn how it works and have a plan B in case something does not work
 	- to clean and arrange the rooms they will use
-5. If an event is noisy, with a lot of attendants or something else that may disturb the lab's environment, the event organizers must conform with the already planned events and to notify the members with a post in the forum.
+5. If an event is noisy, with a lot of attendants or something else that may disturb the lab's environment, the event organizers must conform with the already planned events and notify the members with a post in the forum.
 6. Immediately after the event the organizer must:
 	- clean the rooms and wash the dishes they used
 	- gather the chairs and the equipment they used
-7. The organizers must send statistics to their host no later than 2 working days after the finish of the event with the following info:
+7. The organizers must send general statistics to their host no later than 2 working days after the finish of the event with the following info:
 	- number of participants
 	- other achievements
 
@@ -82,13 +82,13 @@ An event host is a lab member with keys who already agreed to host an event.
 
 #### Event Host Responsibilities:
 
-1. The event host must add/update/remove the event details and reserved date-time slot in the calendar (TODO: add a pointer to it).
+1. The event host must add/update/remove the event details and reserved date-time slot in the calendar.
 2. The host of a given event should be in the lab during:
 	- preparations before that event
 	- holding the event
 	- cleaning and putting the rooms in order after the event
 3. The host must present the lab to the audience at the beginning of the event
-4. TODO: where to collect the statistics from the events?
+4. The host must send the statistics to the lab's executive body.
 5. An event host may withdraw from hosting at any time. If there are no other hosts for this event, then the last one must remove the reservation.
 
 If there are many hosts for a given event, they can split their responsibilities.
