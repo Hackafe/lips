@@ -32,9 +32,15 @@ This LIP contains guidelines for organizing events inside the lab's spaces.
 2. The lab can provide some equipment that is available. Usually there is a projector, video camera, mic, WiFi and other equipment that may be used for events, but the lab can not guarantee that they will be available, or they will work. It is the event organizers responsibility to ensure the equipment for their events.
 3. Since the lab is run by volunteers in their free time, the lab can not promise any commitment on behalf of its members for doing any task whatsoever. It is the event organizers responsibility to do their own work and to attract volunteers.
 
-## 2.2. Actors
+## 2.2. Event Calendar
 
-### 2.2.1. Event Organizer
+The event calendar is the place where all events must be registered.
+
+The calendar is at <https://trello.com/b/GHda069L/hackafe>.
+
+## 2.3. Actors
+
+### 2.3.1. Event Organizer
 
 An event organizer is the person or the organization organizing an event. They may be lab members as well as external people/organizations/companies.
 
@@ -70,13 +76,13 @@ An event organizer is the person or the organization organizing an event. They m
 	- number of participants
 	- other achievements
 
-### 2.2.2. Lab Member with Keys
+### 2.3.2. Lab Member with Keys
 
 A lab member with keys is a member who is entrusted by the community with keys for the lab.
 
 The volunteer members with keys are not obliged to become host for any event. Everyone decide on themselves.
 
-### 2.2.3. Event Host
+### 2.3.3. Event Host
 
 An event host is a lab member with keys who already agreed to host an event.
 
@@ -94,7 +100,7 @@ An event host is a lab member with keys who already agreed to host an event.
 If there are many hosts for a given event, they can split their responsibilities.
 
 
-## 2.3. Finance
+## 2.4. Finance
 
 Free events do not pay a room fee.
 
@@ -109,15 +115,15 @@ Paid events pay a room fee according to the table below:
 The main hall is not available for events in the standard working hours.
 
 
-## 2.4. Workflow
+## 2.5. Workflow
 
 **Step 0: Find a date and a host**
 
 The organizer has to find both a free date-time slot and an event host available in the same slot.
 
-The date-time slots can be checked in the lab's calendar published at the lab's website, http://www.hackafe.org.
+The date-time slots can be checked in the lab's calendar published at the lab's website, <http://www.hackafe.org>.
 
-The organizer should ask the members with keys to become their event host either personally or by posting a request to all of them in the forum in the Events category, http://frm.hackafe.org/c/events.
+The organizer should ask the members with keys to become their event host either personally or by posting a request to all of them in the forum in the Events category, <http://frm.hackafe.org/c/events>.
 
 
 **Step 1: Make a reservation**
