@@ -1,6 +1,7 @@
 ```
   LIP:
   Title: Guidelines for Organizing Events
+  Author: swift
   Discussions: http://frm.hackafe.org/t/lip-guidelines-for-organizing-events/451/1
   Status: Draft
   Type:
