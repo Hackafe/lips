@@ -5,6 +5,11 @@ This repository contains all approved **Lab Improvement Proposals** (LIPs) and i
 
 * [LIP 0001 LIP Purpose and Guidelines](lip-0001-lip-guidelines.md)
 
+## IN DISCUSSION LIPs
+
+* [LIP: Guidelines for Organizing Events](https://github.com/valexiev/lips/blob/organizing-events/lip-valexiev-organizing-events.md)
+* [LIP: Membership](https://github.com/valexiev/lips/blob/membership/lip-groupsky-valexiev-membership.md)
+
 # Contribution
 TBA
 
