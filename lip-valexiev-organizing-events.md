@@ -51,8 +51,8 @@ An event organizer is the person or the organization organizing an event. They m
 2. The organizers must send their hosts the following info:
 	- Event:
 		- name
-		- picture (size at least 700x700 px)
-		- website
+		- picture
+		- website (if there is)
 		- description
 		- date and time slot
 		- lecturers, facilitators
@@ -60,8 +60,8 @@ An event organizer is the person or the organization organizing an event. They m
 		- ticket price
 	- Organizer
 		- name
-		- logo in vector format
-		- website
+		- logo (if they have)
+		- website (if they have)
 		- contact info (person, email, phone)
 3. The event organizers reserve room, date and time for the events on first-come-first-reserved basis. Once a room and date-time slot are reserved for an event, another event must not take them. It can be done only if the organizer of the first event gives his consent to change their reservation.
 3. The organizer holds the responsibility for keeping the property in the lab and taking care the event attendees follow the lab's rules.
