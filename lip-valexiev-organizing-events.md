@@ -43,7 +43,7 @@ The calendar is at <https://trello.com/b/GHda069L/hackafe>.
 
 ### 2.3.1. Event Organizer
 
-An event organizer is the person or the organization organizing an event. They may be lab members as well as external people/organizations/companies.
+An event organizer is the person or the organization organizing an event. They may be lab members as well as external people, organizations, companies. Political parties and NGOs are not eligible.
 
 #### Event Organizers Responsibilities:
 
