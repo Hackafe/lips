@@ -4,7 +4,7 @@
   Author: swift
   Discussions: http://frm.hackafe.org/t/lip-guidelines-for-organizing-events/451/1
   Status: Draft
-  Type:
+  Type: Process
   Created: 2016-01-11
 ```
 
