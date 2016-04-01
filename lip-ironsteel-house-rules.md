@@ -20,11 +20,11 @@ Created: 2016-04-01
 
 # 1. Abstract
 
-TBA
+This document describes the recommended lab rules
 
 # 2. Motivation
 
-TBA
+To have a beautiful and pretty nice lab, where we like to enjoy ourselves and ...
 
 # 3. Specification
 
