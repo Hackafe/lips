@@ -34,7 +34,10 @@ To have a beautiful and pretty nice lab, where we like to enjoy ourselves and ..
 * Every visitor must leave the lab in the state they founded when they came.
 * Every visitor must not disturb the others in any way - music, smell, visually or any other way.
 
-## 3.3 Others
+## 3.3 Isolation room
+The lab has an isolation room, which is available on first-come first-occipy basis. The room has lan connection, nice view of the street and no air-conditioning to prevent too long occipations.
+
+## 3.4 Others
 
 * No smoking inside
 * Smoking in front of the lab is only allowed when the front door is closed
