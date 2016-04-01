@@ -9,6 +9,7 @@ This repository contains all approved **Lab Improvement Proposals** (LIPs) and i
 
 * [LIP: Guidelines for Organizing Events](https://github.com/valexiev/lips/blob/organizing-events/lip-valexiev-organizing-events.md)
 * [LIP: Membership](https://github.com/valexiev/lips/blob/membership/lip-groupsky-valexiev-membership.md)
+* [LIP: House rules](https://github.com/Hackafe/lips/blob/lip-house-rules/lip-ironsteel-house-rules.md)
 
 # Contribution
 TBA
