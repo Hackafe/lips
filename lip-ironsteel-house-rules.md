@@ -43,9 +43,6 @@ The lab has an isolation room, which is available on first-come first-occipy bas
 * Smoking in front of the lab is only allowed when the front door is closed
 * Every visitor must throw in a bin any food and garbage they find in the morning anywhere in the house.
 
-
-TBA
-
 # 4. Rationale
 
 The rules outlined in this document are not exhausting and should serve as a general guidelines to the good practices in keeping the common space in good condition and welcoming to every member.
