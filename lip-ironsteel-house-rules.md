@@ -29,23 +29,11 @@ TBA
 # 3. Specification
 
 ## 3.1 Access
-
-The lab is open for members whenever a member with a key has opened the lab. Usually this happens Mon-Fri from 9:00 until 18:00. 
-
-Non-members may access the lab only as guests to a member or participating in an open event.
-
-  - TL;DR
-```
-Order Deny,Allow
-Deny from All
-Allow from 127.0.0.1
-```
-
-
-#### 
-
-
 ## 3.2 Workplace
+
+* Every visitor must leave the lab in the state they founded when they came.
+* Every visitor must not disturb the others in any way - music, smell, visually or any other way.
+
 ## 3.3 Others
 
 * No smoking inside
