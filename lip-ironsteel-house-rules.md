@@ -38,7 +38,13 @@ The purpose is to create inspiring and comfortable environment, accomodating peo
 
 The meeting room is available on first-come-first-occupy basis.
 
-## 3.4 Others
+## 3.4 Resources
+
+Lab's resources are any items, left for permanent usage in the house without specified owner.
+
+Every member may use the lab's resources from time to time, but they must not occupy it for long time.
+
+## 3.5 Others
 
 * No smoking inside
 * Smoking in front of the lab is only allowed when the front door is closed
