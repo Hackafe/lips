@@ -24,7 +24,7 @@ This document describes the recommended lab rules
 
 # 2. Motivation
 
-To have a beautiful and pretty nice lab, where we like to enjoy ourselves and ...
+The purpose is to create inspiring and comfortable environment, accomodating people with different interests.
 
 # 3. Specification
 
