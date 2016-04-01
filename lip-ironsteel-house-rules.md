@@ -28,6 +28,14 @@ TBA
 
 # 3. Specification
 
+## 3.1 Access
+## 3.2 Workplace
+## 3.3 Others
+
+* No smoking inside
+* Smoking in front of the lab is only allowed when the front door is closed 
+
+
 TBA
 
 # 4. Rationale
