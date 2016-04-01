@@ -48,7 +48,8 @@ TBA
 
 # 4. Rationale
 
-TBA
+The rules outlined in this document are not exhausting and should serve as a general guidelines to the good practices in keeping the common space in good condition and welcoming to every member.
+
 
 # 5. References and Footnotes
 
