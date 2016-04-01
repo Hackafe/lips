@@ -31,7 +31,7 @@ The purpose is to create inspiring and comfortable environment, accomodating peo
 ## 3.1 Access
 ## 3.2 Workplace
 
-* Every visitor must leave the lab in the state they founded when they came.
+* Every visitor must leave the lab in the state they found it when they came.
 * Every visitor must not disturb the others in any way - music, smell, visually or any other way.
 
 ## 3.3 Meeting room
