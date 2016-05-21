@@ -29,6 +29,11 @@ To have a beautiful and pretty nice lab, where we like to enjoy ourselves and ..
 # 3. Specification
 
 ## 3.1 Access
+
+* Only trusted memebers have keys to the lab (another lip will be written on how someone can acquire keys to the lab)
+* Every member can access the lab while it is open
+* Non members can access the lab as long as they obey the lab's rules and at least one member is inside the lab
+
 ## 3.2 Workplace
 
 * Every visitor must leave the lab in the state they founded when they came.
@@ -41,7 +46,10 @@ The lab has an isolation room, which is available on first-come first-occipy bas
 
 * No smoking inside
 * Smoking in front of the lab is only allowed when the front door is closed
-* Every visitor must throw in a bin any food and garbage they find in the morning anywhere in the house.
+* Left over food and drinks must be thrown away
+* Using of cups/plates etc. is permitted, but you must clean them up/throw them after you are done using them
+* Hardware tools can be used as long as they are put pack in there respective place (tool box, cabinet etc)
+* When soldering the working desk must be covered with a sheet of paper.
 
 # 4. Rationale
 
