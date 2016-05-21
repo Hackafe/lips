@@ -24,7 +24,7 @@ This document describes the recommended lab rules
 
 # 2. Motivation
 
-To have a beautiful and pretty nice lab, where we like to enjoy ourselves and ...
+The purpose is to create inspiring and comfortable environment, accomodating people with different interests.
 
 # 3. Specification
 
@@ -36,13 +36,20 @@ To have a beautiful and pretty nice lab, where we like to enjoy ourselves and ..
 
 ## 3.2 Workplace
 
-* Every visitor must leave the lab in the state they founded when they came.
+* Every visitor must leave the lab in the state they found it when they came.
 * Every visitor must not disturb the others in any way - music, smell, visually or any other way.
 
-## 3.3 Isolation room
-The lab has an isolation room, which is available on first-come first-occipy basis. The room has lan connection, nice view of the street and no air-conditioning to prevent too long occipations.
+## 3.3 Meeting room
 
-## 3.4 Others
+The meeting room is available on first-come-first-occupy basis.
+
+## 3.4 Resources
+
+Lab's resources are any items, left for permanent usage in the house without specified owner.
+
+Every member may use the lab's resources from time to time, but they must not occupy it for long time.
+
+## 3.5 Others
 
 * No smoking inside
 * Smoking in front of the lab is only allowed when the front door is closed
