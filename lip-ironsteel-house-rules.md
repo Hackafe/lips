@@ -58,7 +58,7 @@ Every member may use the lab's resources from time to time, but they must not oc
 * Don't move the fire extinguishers, or put them back in place if you need to move them
 * Regular check of equipment that is running 24/7
 
-## 3.5 Others
+## 3.6 Others
 
 * No smoking inside
 * Smoking in front of the lab is only allowed when the front door is closed
