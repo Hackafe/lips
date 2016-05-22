@@ -51,6 +51,13 @@ Lab's resources are any items, left for permanent usage in the house without spe
 
 Every member may use the lab's resources from time to time, but they must not occupy it for long time.
 
+## 3.5 Safety
+
+* Turn off any HW equipment after using it (soldering iron, oven, coffee maker, etc..). But do not stop the server machines
+* Regular check of unused batteries and disposing of the ones that are bad/leaked
+* Don't move the fire extinguishers, or put them back in place if you need to move them
+* Regular check of equipment that is running 24/7
+
 ## 3.5 Others
 
 * No smoking inside
