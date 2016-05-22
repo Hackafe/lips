@@ -2,7 +2,7 @@
 LIP: ironsteel-lib-house-rules
 Title: LIP House Rules 
 Author: ironsteel
-Discussions: TBA 
+Discussions: http://frm.hackafe.org/t/lip-house-rules/650 
 Status: Draft
 Type: Process
 Created: 2016-04-01
